@@ -7,7 +7,7 @@ Fully **async view lifecycle**, simple but powerful Component **View DOM binding
 
 - **Simple Scale Better**.
 
-- **Size is a statement of implicity** 
+- **Size is a statement of simplicity** 
 
 - **Embrace the DOM, Don't Fight it**, 
 
